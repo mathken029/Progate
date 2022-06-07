@@ -19,14 +19,54 @@ li {
 .header{
     background-color: #26d0c9;
     color: #fff;
+    height: 90px;
 }
 
 .header-logo{
-    font-size: 36px;
-    padding: 20px 40px;
-    text-align: left;
+  font-size: 36px;
+  padding: 20px 40px;
+  float: left;
 }
 
 .header-list{
-    text-align: right;
+  float: left;
+}
+
+.header-list li{
+  padding: 33px 20px;
+  float: left;
+}
+
+.main{
+  padding: 100px 80px;
+}
+
+.catchCopy h1{
+  font-size: 140px;
+}
+
+.catchCopy h2{
+  font-size: 60px;
+}
+
+.catchCopy span{
+  color: #ff4a4a;
+}
+
+.contents{
+  height: 500px;
+  margin-bottom: 100px;
+}
+
+.contents h3{
+  border-bottom: 2px solid #dee7ec;
+  padding-bottom: 15px;
+  font-size: 28px;
+  margin-bottom: 50px;
+}
+
+.contents-item{
+  font-size: 24px;
+  float: left;
+  margin-right:40px;
 }
