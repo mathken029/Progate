@@ -90,3 +90,22 @@ input, textarea{
   color: #889eab;
   border: 0px;
 }
+
+.footer{
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 20px;
+}
+
+.footer p{
+  font-size: 32px;
+  float: left;
+}
+
+.footer ul{
+  float: right;
+}
+.footer li{
+  padding-bottom: 20px;
+}
