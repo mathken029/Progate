@@ -194,3 +194,15 @@ footer {
 
 /* -------------------- CSSはここから追加していきましょう！ -------------------- */
 
+.menu-icons {
+  color: white;
+  float: right;
+  padding: 21px 0;
+  font-size: 25px;
+
+  display: none;
+}
+
+.clear {
+  clear: left;
+}
